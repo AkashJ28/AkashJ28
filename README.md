@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkashJ28
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ and Java
+-  I’m interested in Programming
+- 🌱 I’m currently learning C++ and Python
 
 
 <!---
